@@ -1,0 +1,9 @@
+<table>
+    <h2>Units:</h2>
+    {{#each units_list}}
+        <tr>
+            <td><a href='/unit_list/unit?name={{name}}'>{{name}}</a></td>
+        </tr>
+    {{/each}}
+</table>
+<a id="culink" href="/unit_list/create_unit">Create Unit</a><br>
