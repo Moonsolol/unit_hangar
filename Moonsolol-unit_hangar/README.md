@@ -64,21 +64,5 @@ An Example List with Embedded Items:
 3. as a user, I can add units to an existing team
 4. as a user, I can look at specific unit information
 
-## Research Topics
-
-* (5 points) Automated functional testing for all routes using Selenium
-    * I'm going to be using Selenium for automated funcional testing
-    * This will make sure that the UI of the web app will be working correctly and that the features are good.
-* (3 points) Unit testing with Javascript using Chai
-    * I'm going to be using Chai alongisde Selenium for automated testing
-    * Will make sure everything works correctly.
-
-8 points total out of 8 required points
-
 
 ## [Link to Initial Main Project File](app.js) 
-
-## Annotations / References Used
-
-1. [Selenium automated functional testing docs](https://www.selenium.dev/documentation/en/) - (add link to source code that was based on this)
-2. [Examples of Selenium tests with mocha in javascript](https://nehalist.io/selenium-tests-with-mocha-and-chai-in-javascript/)
